@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ncf:home|Door43 (ncf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ncf|d43-ncf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ncf/archive/master.zip|d43-ncf.zip]]
+
+**Recent Changes**
+{{changes>ns = ncf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ncf|Ethnologue data]]
+
